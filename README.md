@@ -5,16 +5,16 @@ Voice recognition app using the Web Speech API Interfaces
 
 ### Clone the repository
 ```bash
-$ git clone git@github.com:angadbawa/speechrec.git
+$ git clone git@github.com:angadbawa/VoiceAssistant.git
 ```
 
 ### Change directory
 ```bash
-$ cd speechrec
+$ cd VoiceAssistant
 ```
 
 ### Run the application
-Start a server in the `speechrec` directory and visit the link in your browser.
+Start a server in the `VoiceAssistant` directory and visit the link in your browser.
 
 [Lite Server](https://www.npmjs.com/package/lite-server) is a simple development server you can use to run the app. If you have Lite Server, simply run:
 ```bash
