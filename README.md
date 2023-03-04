@@ -1,4 +1,4 @@
-# Speechrec
+# VoiceAssistant
 Voice recognition app using the Web Speech API Interfaces
 
 ## Getting Started
